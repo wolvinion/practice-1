@@ -1,0 +1,10 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #a17188;
+	font-family: 'Lemonada', cursive;
+}
+
+navbar {
+	border-top-left-radius: 10px;
+}
